@@ -1,13 +1,7 @@
-# Profit-Performance-Discount-Optimization-dashboard
-End-to-end Business Intelligence project using Python, PostgreSQL, SQL, and Power BI to analyze retail sales performance.
-# Profit-Performance-Discount-Optimization-dashboard
+# Profit Performance & Discount Optimization Analysis
+## A Data Analytics Project Using Python, SQL, and Power BI
 
-## Project Overview
-
-This project demonstrates an end-to-end data analytics workflow using Python, PostgreSQL, SQL, and Power BI.
-
-The objective is to transform raw retail sales data into actionable business insights through structured data modeling and interactive dashboards.
-
+#### This project analyzes sales performance, profitability trends, and the impact of discounts on profit margins using the Superstore dataset. The goal is to help business leaders identify revenue drivers and optimize discount strategies.
 ---
 
 ## Tools Used
