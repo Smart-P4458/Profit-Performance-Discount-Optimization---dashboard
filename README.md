@@ -1,6 +1,6 @@
-# Profit-Performance-Discount-Optimization---dashboard
+# Profit-Performance-Discount-Optimization-dashboard
 End-to-end Business Intelligence project using Python, PostgreSQL, SQL, and Power BI to analyze retail sales performance.
-# Superstore Retail Analytics Dashboard
+# Profit-Performance-Discount-Optimization-dashboard
 
 ## Project Overview
 
