@@ -49,7 +49,7 @@ Top Products Analysis
 
 ## Dashboard Preview
 
-![Dashboard](images/Dashboard Overview 111.jpg)
+![Dashboard](https://github.com/Smart-P4458/Profit-Performance-Discount-Optimization---dashboard/blob/main/images/Dashboard%20Overview%20111.jpg?raw=true)
 
 ---
 
