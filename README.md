@@ -55,7 +55,7 @@ Top Products Analysis
 
 ## Drilthrough Product Preview
 
-![Dashboard](images/Dashboard Overview 111.jpg)
+![Dashboard](https://github.com/Smart-P4458/Profit-Performance-Discount-Optimization---dashboard/blob/main/images/Product%20Overview%20Page.jpg?raw=true)
 
 ---
 
