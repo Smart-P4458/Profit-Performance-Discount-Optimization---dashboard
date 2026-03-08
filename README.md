@@ -49,7 +49,19 @@ Top Products Analysis
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard-preview.png)
+![Dashboard](images/Dashboard Overview 111.jpg)
+
+---
+
+## Drilthrough Product Preview
+
+![Dashboard](images/Dashboard Overview 111.jpg)
+
+---
+
+## Drillthrough Regional Preview
+
+![Dashboard](images/Dashboard Overview 111.jpg)
 
 ---
 
