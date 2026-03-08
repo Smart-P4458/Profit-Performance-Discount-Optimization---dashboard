@@ -61,7 +61,7 @@ Top Products Analysis
 
 ## Drillthrough Regional Preview
 
-![Dashboard](images/Dashboard Overview 111.jpg)
+![Dashboard](https://github.com/Smart-P4458/Profit-Performance-Discount-Optimization---dashboard/blob/main/images/Regional%20Performance%20Overview.jpg?raw=true)
 
 ---
 
